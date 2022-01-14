@@ -1,0 +1,10 @@
+///1. Patrones de colore
+$principal: rgb(255, 0, 212);
+
+///2. Modificacion de la variable de boostrap
+
+$primary: $principal;
+
+
+
+@import "../lib/bootstrap/scss/bootstrap";
